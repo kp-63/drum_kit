@@ -1,0 +1,7 @@
+{
+  "homepage" : "http://kp-63.github.io/drum_kit",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
+
